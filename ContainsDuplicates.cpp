@@ -1,6 +1,6 @@
-Given an array of integers, find if the array contains any duplicates
-* your function should return true if any value apppears at least twice in the arrray,
-and it should return false if every element is distinct *
+//(217) Given an array of integers, find if the array contains any duplicates
+//* your function should return true if any value apppears at least twice in the arrray,
+//and it should return false if every element is distinct *
 
 class Solution {
 public:
